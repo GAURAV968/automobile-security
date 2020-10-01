@@ -1,6 +1,6 @@
 # automobile-security
 
-Autonomous cars with Splunk Forwarder installed as an agent will push the logs to splunk enterprise solution. After analysis of the logs incident response is carried out.
+Autonomous cars with Splunk Forwarder installed as an agent will push the logs to Splunk enterprise solution. After an analysis of the records, incident response is carried out.
 
 Tech Integrations
 
